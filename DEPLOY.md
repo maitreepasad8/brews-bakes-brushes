@@ -1,7 +1,5 @@
 # Deploy to GitHub Pages
 
-Your repository is ready to be pushed to GitHub! Follow these steps:
-
 ## Step 1: Create a GitHub Repository
 
 1. Go to [GitHub](https://github.com) and sign in
@@ -17,13 +15,6 @@ Run these commands (replace `YOUR_USERNAME` and `YOUR_REPO_NAME`):
 
 ```bash
 git remote add origin https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git
-git branch -M main
-git push -u origin main
-```
-
-For example, if your username is `maitree` and repo is `brews-bakes-brushes`:
-```bash
-git remote add origin https://github.com/maitree/brews-bakes-brushes.git
 git branch -M main
 git push -u origin main
 ```
@@ -46,7 +37,7 @@ Your site will be live at:
 https://YOUR_USERNAME.github.io/YOUR_REPO_NAME
 ```
 
-**Note:** It may take 1-2 minutes for the site to be available after enabling Pages. You'll see a green checkmark when it's ready.
+**Note:** It may take 1-2 minutes for the site to be available after enabling Pages.
 
 ## Updating Your Site
 
